@@ -1,2 +1,2 @@
 # hybEff
-Software to analyze hybridization efficiency of microRNA-mRNA interactions
+Software to analyze the hybridization efficiency of microRNA-mRNA interactions
