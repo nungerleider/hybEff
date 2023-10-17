@@ -1,5 +1,5 @@
 # hybEff
 Software to analyze the hybridization efficiency of microRNA-mRNA interactions
+![clash2](https://github.com/nungerleider/hybEff/assets/23278950/62e284af-6c64-4e19-9114-0b6afe520338)
 
 
-![clash](https://github.com/nungerleider/hybEff/assets/23278950/a9d8d4ed-05ac-450d-aa02-2827f68edf5d)
